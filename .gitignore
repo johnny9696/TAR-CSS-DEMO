@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 *.pdf
+
+._*
+
+!assets/figures/paper_20261124/*.pdf
