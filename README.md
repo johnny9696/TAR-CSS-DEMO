@@ -1,6 +1,6 @@
 # TAR-CSS paper demo
 
-[Live demo](https://johnny9696.github.io/TAR-CSS_DEMO/) · [Repository](https://github.com/johnny9696/TAR-CSS_DEMO)
+[Live demo](https://johnny9696.github.io/TAR-CSS-DEMO/) · [Repository](https://github.com/johnny9696/TAR-CSS-DEMO)
 
 Static English research demo built from the supplied `TAR_CSS_TASLP-3.pdf` (24 November 2026). Open `index.html` in a browser, or serve this directory with a static HTTP server. No build step is required.
 
